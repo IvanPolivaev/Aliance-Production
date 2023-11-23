@@ -10,7 +10,6 @@ body {
   font-weight: normal;
   font-style: normal;
   }
-/* разве 1140px а не 1440? */
 .container {
   max-width: 1440px;
   margin: auto;
